@@ -1,6 +1,11 @@
-# Xmake cache
+# Xmake cache and files
 .xmake/
 build/
+.vscode/compile_commands.json
+
+# developement files
+dev/
+src/PandaTodo
 
 # MacOS Cache
 .DS_Store

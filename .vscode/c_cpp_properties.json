@@ -3,9 +3,12 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/src"
+                "${workspaceFolder}/src",
+                "/home/pandaroux007/.xmake/packages/w/wxwidgets/3.2.5/2398c6b5c1a44d64bfb2f7ba6e7699cc/include/wx-3.2"
             ],
-            "compileCommands": ".vscode/compile_commands.json"
+            "compileCommands": [
+                ".vscode/compile_commands.json"
+            ]
         }
     ],
     "version": 4

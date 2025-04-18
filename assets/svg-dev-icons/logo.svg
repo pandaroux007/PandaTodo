@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<g transform="matrix(.48828 0 0 .48828 3 3)">
+<circle cx="256" cy="256" r="256" fill="#0479ff" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+<rect x="80.854" y="330.35" width="174.79" height="60.292" ry="30.146" fill="#333" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+<rect x="81" y="130.5" width="350" height="60" ry="30" fill="#333" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+<rect x="80.909" y="230.41" width="233.18" height="60.183" ry="30.091" fill="#333" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+<g transform="matrix(11.262,0,0,11.223,262.56,222.66)" fill="#1a1a1a">
+<path d="m12.778 1.2222s-0.5-0.49996-1 0l-1.778 1.7778 3 3 1.778-1.7778c0.5-0.5 0-1 0-1zm-3.778 2.7778-8 8v3h3l8-8z" fill="#1a1a1a"/>
+</g></g></svg>
